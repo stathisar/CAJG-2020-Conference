@@ -7,4 +7,6 @@ Scripts are written in R. Moreover, some training data, images classified as rel
 The demo-model is also attached in the repository.
 As stated in paper, Neural Network classification is at early stage, the related files are provided as justification of that initial creation of a CNN image classification model.
 
+The rest of the script approaches can be found in previous publications. In case of being interested please check thethe AJGS-Fire-Management-Social-Networks repository of the author.
+
 For more information please seek the paper or contact the author: e.arapostathis@gmail.com
